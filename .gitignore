@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Test and lint caches
+.pytest_cache/
+.ruff_cache/
+
+# Local environment secrets
+.env
+
+# macOS
+.DS_Store
